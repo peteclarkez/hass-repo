@@ -28,6 +28,6 @@
       "logins": [{ "username": "str", "password": "str" }],
       "anonymous": "bool"
     },
-    "image": "peteclarekz/hassio-kdb"
+    "image": "peteclarkez/hassio-kdb"
   }
   
