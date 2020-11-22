@@ -1,6 +1,6 @@
 {
     "name": "kdb+ Tick",
-    "version": "35.0.2",
+    "version": "35.0.3",
     "slug": "kdbtick",
     "description": "KDB Tick database holding hass events",
     "url": "https://github.com/peteclarkez/hassio-kdb",
